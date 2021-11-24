@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Home_icon" data-name="Home/icon" transform="translate(-59 -32)">
+    <g id="Iconly_Light_Home" data-name="Iconly/Light/Home" transform="translate(59 32)">
+      <g id="Home" transform="translate(2.083 1.667)">
+        <path id="Home-2" data-name="Home" d="M5.548,15.643V13.087A1.188,1.188,0,0,1,6.734,11.9H9.139a1.189,1.189,0,0,1,1.195,1.183h0v2.564a1.021,1.021,0,0,0,1,1.016h1.6A2.88,2.88,0,0,0,15.833,13.8h0V6.532a2.033,2.033,0,0,0-.8-1.587L9.548.571a2.65,2.65,0,0,0-3.287,0L.8,4.952A2.017,2.017,0,0,0,0,6.539V13.8a2.88,2.88,0,0,0,2.894,2.865H4.5a1.029,1.029,0,0,0,1.034-1.024h0" transform="translate(0 0)" fill="none" stroke="#8a5ea4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
